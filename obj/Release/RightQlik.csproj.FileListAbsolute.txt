@@ -1,0 +1,5 @@
+C:\Users\Miguel Ángel\documents\visual studio 2013\Projects\RightQlik\RightQlik\bin\Release\RightQlik.exe.config
+C:\Users\Miguel Ángel\documents\visual studio 2013\Projects\RightQlik\RightQlik\bin\Release\RightQlik.exe
+C:\Users\Miguel Ángel\documents\visual studio 2013\Projects\RightQlik\RightQlik\bin\Release\RightQlik.pdb
+C:\Users\Miguel Ángel\documents\visual studio 2013\Projects\RightQlik\RightQlik\obj\Release\RightQlik.exe
+C:\Users\Miguel Ángel\documents\visual studio 2013\Projects\RightQlik\RightQlik\obj\Release\RightQlik.pdb

@@ -1,0 +1,6 @@
+c:\users\miguel ángel\documents\visual studio 2013\Projects\RightQlik\RightQlik\bin\Debug\RightQlik.exe.config
+c:\users\miguel ángel\documents\visual studio 2013\Projects\RightQlik\RightQlik\bin\Debug\RightQlik.exe
+c:\users\miguel ángel\documents\visual studio 2013\Projects\RightQlik\RightQlik\bin\Debug\RightQlik.pdb
+c:\users\miguel ángel\documents\visual studio 2013\Projects\RightQlik\RightQlik\obj\Debug\RightQlik.exe
+c:\users\miguel ángel\documents\visual studio 2013\Projects\RightQlik\RightQlik\obj\Debug\RightQlik.pdb
+C:\Users\Miguel Ángel\documents\visual studio 2013\Projects\RightQlik\RightQlik\obj\Debug\RightQlik.csprojResolveAssemblyReference.cache
